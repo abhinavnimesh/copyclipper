@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "18154814589",
+    "firebase_url": "https://copy-clipper.firebaseio.com",
+    "project_id": "copy-clipper",
+    "storage_bucket": "copy-clipper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18154814589:android:3591c5587eb0c8fb",
+        "android_client_info": {
+          "package_name": "com.animator_abhi.copyclipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18154814589-raiekm5ehcinf42oe34qk02tpq8o75i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrxWWJ4CjVEmvlxMU-eSEyWC7YbdMgXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
